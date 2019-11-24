@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LoginUi</string>
+    <string name="login">Login</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="ccount_signup">Not have an account? Signup Here</string>
+    <string name="login_text">Login</string>
+</resources>
